@@ -1,6 +1,7 @@
-# HeaDataStructure
+# Heap Data Structure
 
 HEAPS 
+
 A heap is a data structure that is a complete binary tree and satisfies the heap property.
 
 TYPES OF HEAPS
